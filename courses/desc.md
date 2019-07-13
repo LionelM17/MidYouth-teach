@@ -30,6 +30,25 @@
 ---
 ##第三期课程 python之禅
 
-python彩蛋：（import this）
+**课堂资料**
 
-[python](https://blog.csdn.net/qq_41597912/article/details/81459804)
+[python彩蛋：（import this）](https://blog.csdn.net/qq_41597912/article/details/81459804)
+
+[API视频](https://www.bilibili.com/video/av16873749?from=search&seid=10805057249567621116)
+
+
+
+
+
+
+##竞赛项目——智能AI微信自动回复
+
+https://github.com/wechaty/wechaty-getting-started/blob/master/examples/professional/tuling123-bot.js
+
+http://www.turingapi.com/
+
+https://docs.chatie.io/v/zh/
+
+https://docs.chatie.io/v/zh/le-jie-geng-duo/video
+
+https://github.com/Urinx/WeixinBot#Web-Weixin-Pipeline
