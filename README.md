@@ -8,5 +8,3 @@
 '''
 ssh lionel@49.232.33.91
 '''
-
-password: 19990813mxt
