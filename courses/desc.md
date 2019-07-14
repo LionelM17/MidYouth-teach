@@ -10,7 +10,29 @@
 
 [Linux命令大全以及shell教程](https://www.runoob.com/linux/linux-command-manual.html)
 
+腾讯云：
+'''
+ssh lionel@49.232.33.91
+'''
 
+学生目录：<br>
+liuchang<br>
+luanshaokuo<br>
+fuyinghao<br>
+zhaoyubo<br>
+zhengyule<br>
+zhaoyaoyang<br>
+zhaoyongwei<br>
+wuyuxuan<br>
+lijiale<br>
+liuyihao<br>
+shangyongqi<br>
+cuizhiheng<br>
+yangyongtai<br>
+liuzhihao<br>
+chengruixiang<br>
+xuxiangkun<br>
+menglingzhi<br>
 
 **课堂资料：**
 
