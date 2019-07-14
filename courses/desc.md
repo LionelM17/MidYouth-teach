@@ -1,5 +1,9 @@
 #课程相关资料
 
+---
+
+---
+
 ##第二期课程 深度操作系统与开源社区
 
 **需要提前预习的：**
@@ -28,6 +32,9 @@
 
 
 ---
+
+---
+
 ##第三期课程 python之禅
 
 **课堂资料**
@@ -36,10 +43,14 @@
 
 [API视频](https://www.bilibili.com/video/av16873749?from=search&seid=10805057249567621116)
 
+[编译型语言和解释型语言](https://blog.csdn.net/zhusongziye/article/details/78670050)
+
+[API汇总](https://blog.csdn.net/xiaoyou_yonyou/article/details/81536704)
 
 
+---
 
-
+---
 
 ##竞赛项目——智能AI微信自动回复
 
